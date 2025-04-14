@@ -1,6 +1,6 @@
 const APP_ID = '98a84bad74bb4de0b0728bf1730007ab';
-const CHANNEL_NAME = 'test';
-const TOKEN = '007eJxTYFgxe+Eqrf8ft6m7Ct+8Z5b9eXnf9b/caqseOoc9u2n+NV9XgcHSItHCJCkxxdwkKckkJdUgycDcyCIpzdDc2MDAwDwxKbn1b3pDICODo+5bVkYGCATxWRhKUotLGBgALRoiRw==';
+const CHANNEL_NAME = 'name';
+const TOKEN = '007eJxTYLgRt1lbyFD5sdS8bO1NKXdqX7UzLd4r2bD0hsTFU0EG76MVGCwtEi1MkhJTzE2SkkxSUg2SDMyNLJLSDM2NDQwMzBOT7Nr+pjcEMjL4MCqyMjJAIIjPwpCXmJvKwAAALm8ejA==';
 
 let remoteVideo = document.getElementById("localvideo");
 let receiveButton = document.getElementById("envoi");
